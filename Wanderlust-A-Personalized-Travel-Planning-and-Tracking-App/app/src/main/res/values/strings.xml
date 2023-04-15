@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_bali">BaliActivity</string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+    <string name="place_3">Singapore</string>
+    <string name="place_1">Bali</string>
+    <string name="place_2">Paris</string>
+    <string name="description">Super saver pack with less than 100000 Rupees</string>
+    <string name="plan">7 Days / 1 Person</string>
+</resources>
